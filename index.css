@@ -1,0 +1,24 @@
+/* *{
+    background-color: black;
+    color: white;
+ 
+} */
+ 
+.hero-img{
+    min-height: 20vh;
+}
+.logo{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.link-icon{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about-logo{
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
